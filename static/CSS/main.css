@@ -1,0 +1,20 @@
+body {
+    margin: auto;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.centered_table  {
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 30px;
+  padding: 10px;
+
+}
